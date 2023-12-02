@@ -1,3 +1,11 @@
 231125 Obtained raw image.
 PIA 00405 (credit: NASA/JPL/USGS)
 https://science.nasa.gov/image-detail/amf-pia00405/
+
+231202
+PIA15515 (credit: NASA/JPL/USGS)
+https://photojournal.jpl.nasa.gov/catalog/PIA15515
+Note that the image was trimmed to be square.
+
+PIA24439 (credit: NASA/JPL/USGS)
+https://photojournal.jpl.nasa.gov/catalog/PIA24439
