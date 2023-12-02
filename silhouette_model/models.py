@@ -7,6 +7,7 @@
 
 import torch
 import torch.nn as nn
+import torchvision
 import timm
 
 def ViT(num_classes):
@@ -18,7 +19,7 @@ def SwinB(num_classes):
     return model
     
 def ResNet50(num_classes):
-    model = models.resnet50(weights=torchvision.models.ResNet50_Weights.IMAGENET1K_V1)
+    model = torchvision.models.resnet50(weights=torchvision.models.ResNet50_Weights.IMAGENET1K_V1)
     model.fc = nn.Linear(model.fc.in_features, num_classes)
     return model
 
