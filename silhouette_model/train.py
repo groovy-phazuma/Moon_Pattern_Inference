@@ -82,14 +82,7 @@ def set_transforms():
         transforms.Resize((256,256)),
         utils.Transforms_Segmentation(),
         transforms.RandomHorizontalFlip(p=0.5),
-        utils.random_rotation_transform(rr_prob=1., rr_degrees=[0,180]),
-        #transforms.RandomApply([
-        #    transforms.ColorJitter(0.4, 0.4, 0.2, 0.1)], p=0.8
-        #    ), # don't need color jitter for silhouette
-        #transforms.RandomGrayscale(p=0.2), # don't need grey scaling for silhouette
-        #transforms.RandomApply([
-        #    transforms.GaussianBlur((3, 3), (1.0, 2.0))], p=0.2
-        #    ), # don't need blur for silhouette
+        transforms.RandomAffine([-180,180], translate=(.2, .2), scale=(.5, 1.5), shear=None, fill=0, ), #rotation, shift, scaling, fill outside with 0
         transforms.RandomResizedCrop((224, 224)),
         transforms.ToTensor(),
         normalize
@@ -97,6 +90,7 @@ def set_transforms():
     # for validation dataset
     val_data_transform = transforms.Compose([
         transforms.Resize((256,256)),
+        utils.Transforms_Segmentation(),
         transforms.CenterCrop((224,224)),
         transforms.ToTensor(),
         normalize
@@ -256,7 +250,7 @@ def train(model, criterion, optimizer, scheduler, early_stopping, num_epoch:int=
         if early_stopping.early_stop:
             LOGGER.logger.info(f'Early Stopping with Epoch: {epoch}')
             model.load_state_dict(torch.load(early_stopping.path))        
-            return model, train_loss, val_loss
+            return model, train_loss, train_acc, val_loss, val_acc
     return model, train_loss, train_acc, val_loss, val_acc
 
 def main():
@@ -283,7 +277,7 @@ def main():
 
 if __name__=='__main__':
     filename = os.path.basename(__file__).split('.')[0]
-    DIR_NAME = PROJECT_PATH + '/result/' +args.dir_result # for output
+    DIR_NAME = PROJECT_PATH + '/silhouette_model/models/' +args.dir_result # for output
     DEVICE = torch.device('cuda:0') # if torch.cuda.is_available() else 'cpu') # get device
     if not os.path.exists(DIR_NAME):
         os.makedirs(DIR_NAME)
