@@ -161,3 +161,11 @@ cython_debug/
 
 # Data files
 #data/*
+
+# model
+silhouette_model/models/*/*/checkpoint.pt
+silhouette_model/models/*/*/model.pt
+
+# temporary log
+error.log
+out.log

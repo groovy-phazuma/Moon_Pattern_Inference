@@ -261,7 +261,7 @@ def main():
     )
     # training
     model, train_loss, train_acc, val_loss, val_acc = train(
-        model, criterion, optimizer, scheduler, early_stopping, num_epoch=args.num_epoch
+        model, criterion, optimizer, scheduler, early_stopping, num_epoch=args.num_epoch, batch_size=args.batch_size
     )
     # plot, save model
     utils.plot_progress(train_loss, val_loss, outdir=DIR_NAME, name="loss", label="loss")
