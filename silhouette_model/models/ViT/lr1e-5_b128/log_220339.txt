@@ -1,0 +1,256 @@
+[20231202-220349] [INFO] Loading pretrained weights from Hugging Face hub (timm/vit_base_patch16_224.augreg2_in21k_ft_in1k)
+[20231202-220349] [INFO] [timm/vit_base_patch16_224.augreg2_in21k_ft_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+[20231202-220727] [INFO] Epoch: 1, train_loss: 6.8467, val_loss: 6.7439, train_acc: 0.0013, val_acc: 0.0045
+[20231202-220727] [INFO] elapsed_time: 3.60 min
+[20231202-221100] [INFO] Epoch: 2, train_loss: 6.5811, val_loss: 6.1644, train_acc: 0.0069, val_acc: 0.0116
+[20231202-221100] [INFO] elapsed_time: 7.15 min
+[20231202-221433] [INFO] Epoch: 3, train_loss: 5.8470, val_loss: 5.3508, train_acc: 0.0175, val_acc: 0.0285
+[20231202-221433] [INFO] elapsed_time: 10.70 min
+[20231202-221805] [INFO] Epoch: 4, train_loss: 5.0855, val_loss: 4.6827, train_acc: 0.0352, val_acc: 0.0583
+[20231202-221805] [INFO] elapsed_time: 14.24 min
+[20231202-222138] [INFO] Epoch: 5, train_loss: 4.5359, val_loss: 4.3016, train_acc: 0.0623, val_acc: 0.0802
+[20231202-222138] [INFO] elapsed_time: 17.79 min
+[20231202-222511] [INFO] Epoch: 6, train_loss: 4.1559, val_loss: 3.9912, train_acc: 0.0805, val_acc: 0.1063
+[20231202-222511] [INFO] elapsed_time: 21.34 min
+[20231202-222844] [INFO] Epoch: 7, train_loss: 3.8852, val_loss: 3.7029, train_acc: 0.1087, val_acc: 0.1408
+[20231202-222844] [INFO] elapsed_time: 24.89 min
+[20231202-223216] [INFO] Epoch: 8, train_loss: 3.6006, val_loss: 3.5256, train_acc: 0.1423, val_acc: 0.1598
+[20231202-223216] [INFO] elapsed_time: 28.42 min
+[20231202-223549] [INFO] Epoch: 9, train_loss: 3.4038, val_loss: 3.3153, train_acc: 0.1611, val_acc: 0.1995
+[20231202-223549] [INFO] elapsed_time: 31.96 min
+[20231202-223922] [INFO] Epoch: 10, train_loss: 3.2115, val_loss: 3.1889, train_acc: 0.1933, val_acc: 0.2059
+[20231202-223922] [INFO] elapsed_time: 35.51 min
+[20231202-224253] [INFO] Epoch: 11, train_loss: 3.0596, val_loss: 3.0338, train_acc: 0.2173, val_acc: 0.2313
+[20231202-224253] [INFO] elapsed_time: 39.04 min
+[20231202-224626] [INFO] Epoch: 12, train_loss: 2.9202, val_loss: 3.0194, train_acc: 0.2405, val_acc: 0.2344
+[20231202-224626] [INFO] elapsed_time: 42.59 min
+[20231202-224959] [INFO] Epoch: 13, train_loss: 2.8190, val_loss: 2.8548, train_acc: 0.2621, val_acc: 0.2710
+[20231202-224959] [INFO] elapsed_time: 46.13 min
+[20231202-225331] [INFO] Epoch: 14, train_loss: 2.6612, val_loss: 2.7766, train_acc: 0.2957, val_acc: 0.2775
+[20231202-225331] [INFO] elapsed_time: 49.67 min
+[20231202-225704] [INFO] Epoch: 15, train_loss: 2.5607, val_loss: 2.7027, train_acc: 0.3128, val_acc: 0.2946
+[20231202-225704] [INFO] elapsed_time: 53.22 min
+[20231202-230037] [INFO] Epoch: 16, train_loss: 2.4737, val_loss: 2.6717, train_acc: 0.3399, val_acc: 0.3048
+[20231202-230037] [INFO] elapsed_time: 56.76 min
+[20231202-230410] [INFO] Epoch: 17, train_loss: 2.3575, val_loss: 2.4739, train_acc: 0.3660, val_acc: 0.3529
+[20231202-230410] [INFO] elapsed_time: 60.31 min
+[20231202-230744] [INFO] Epoch: 18, train_loss: 2.2751, val_loss: 2.5089, train_acc: 0.3807, val_acc: 0.3316
+[20231202-230744] [INFO] elapsed_time: 63.88 min
+[20231202-231118] [INFO] Epoch: 19, train_loss: 2.2640, val_loss: 2.4759, train_acc: 0.3868, val_acc: 0.3520
+[20231202-231118] [INFO] elapsed_time: 67.45 min
+[20231202-231451] [INFO] Epoch: 20, train_loss: 2.1747, val_loss: 2.3921, train_acc: 0.3970, val_acc: 0.3690
+[20231202-231451] [INFO] elapsed_time: 71.00 min
+[20231202-231823] [INFO] Epoch: 21, train_loss: 2.0977, val_loss: 2.3455, train_acc: 0.4212, val_acc: 0.3698
+[20231202-231823] [INFO] elapsed_time: 74.54 min
+[20231202-232156] [INFO] Epoch: 22, train_loss: 2.0206, val_loss: 2.2507, train_acc: 0.4452, val_acc: 0.4026
+[20231202-232156] [INFO] elapsed_time: 78.08 min
+[20231202-232528] [INFO] Epoch: 23, train_loss: 2.0359, val_loss: 2.2336, train_acc: 0.4408, val_acc: 0.4146
+[20231202-232528] [INFO] elapsed_time: 81.62 min
+[20231202-232901] [INFO] Epoch: 24, train_loss: 1.9304, val_loss: 2.2259, train_acc: 0.4601, val_acc: 0.4117
+[20231202-232901] [INFO] elapsed_time: 85.17 min
+[20231202-233234] [INFO] Epoch: 25, train_loss: 1.9050, val_loss: 2.1363, train_acc: 0.4660, val_acc: 0.4281
+[20231202-233234] [INFO] elapsed_time: 88.71 min
+[20231202-233606] [INFO] Epoch: 26, train_loss: 1.8093, val_loss: 2.0650, train_acc: 0.4976, val_acc: 0.4480
+[20231202-233606] [INFO] elapsed_time: 92.26 min
+[20231202-233939] [INFO] Epoch: 27, train_loss: 1.8442, val_loss: 2.0406, train_acc: 0.4897, val_acc: 0.4579
+[20231202-233939] [INFO] elapsed_time: 95.80 min
+[20231202-234312] [INFO] Epoch: 28, train_loss: 1.7647, val_loss: 2.0593, train_acc: 0.5166, val_acc: 0.4427
+[20231202-234312] [INFO] elapsed_time: 99.35 min
+[20231202-234644] [INFO] Epoch: 29, train_loss: 1.7041, val_loss: 2.0000, train_acc: 0.5260, val_acc: 0.4713
+[20231202-234644] [INFO] elapsed_time: 102.89 min
+[20231202-235018] [INFO] Epoch: 30, train_loss: 1.6532, val_loss: 2.0844, train_acc: 0.5424, val_acc: 0.4327
+[20231202-235018] [INFO] elapsed_time: 106.45 min
+[20231202-235351] [INFO] Epoch: 31, train_loss: 1.6936, val_loss: 2.0172, train_acc: 0.5259, val_acc: 0.4561
+[20231202-235351] [INFO] elapsed_time: 110.01 min
+[20231202-235724] [INFO] Epoch: 32, train_loss: 1.5885, val_loss: 1.9098, train_acc: 0.5577, val_acc: 0.4982
+[20231202-235724] [INFO] elapsed_time: 113.55 min
+[20231203-000056] [INFO] Epoch: 33, train_loss: 1.5905, val_loss: 1.9138, train_acc: 0.5667, val_acc: 0.4940
+[20231203-000056] [INFO] elapsed_time: 117.09 min
+[20231203-000429] [INFO] Epoch: 34, train_loss: 1.5522, val_loss: 1.9136, train_acc: 0.5754, val_acc: 0.4984
+[20231203-000429] [INFO] elapsed_time: 120.63 min
+[20231203-000800] [INFO] Epoch: 35, train_loss: 1.5175, val_loss: 1.8676, train_acc: 0.5877, val_acc: 0.5126
+[20231203-000800] [INFO] elapsed_time: 124.16 min
+[20231203-001133] [INFO] Epoch: 36, train_loss: 1.5526, val_loss: 1.9528, train_acc: 0.5675, val_acc: 0.4747
+[20231203-001133] [INFO] elapsed_time: 127.71 min
+[20231203-001506] [INFO] Epoch: 37, train_loss: 1.5448, val_loss: 1.8774, train_acc: 0.5687, val_acc: 0.5019
+[20231203-001506] [INFO] elapsed_time: 131.24 min
+[20231203-001839] [INFO] Epoch: 38, train_loss: 1.4439, val_loss: 1.7836, train_acc: 0.5986, val_acc: 0.5341
+[20231203-001839] [INFO] elapsed_time: 134.79 min
+[20231203-002211] [INFO] Epoch: 39, train_loss: 1.3858, val_loss: 1.8097, train_acc: 0.6189, val_acc: 0.5195
+[20231203-002211] [INFO] elapsed_time: 138.34 min
+[20231203-002543] [INFO] Epoch: 40, train_loss: 1.4742, val_loss: 1.8231, train_acc: 0.5904, val_acc: 0.5214
+[20231203-002543] [INFO] elapsed_time: 141.87 min
+[20231203-002917] [INFO] Epoch: 41, train_loss: 1.4103, val_loss: 1.7715, train_acc: 0.6099, val_acc: 0.5436
+[20231203-002917] [INFO] elapsed_time: 145.43 min
+[20231203-003250] [INFO] Epoch: 42, train_loss: 1.3736, val_loss: 1.7688, train_acc: 0.6159, val_acc: 0.5399
+[20231203-003250] [INFO] elapsed_time: 148.99 min
+[20231203-003623] [INFO] Epoch: 43, train_loss: 1.3892, val_loss: 1.8565, train_acc: 0.6233, val_acc: 0.5065
+[20231203-003623] [INFO] elapsed_time: 152.53 min
+[20231203-003956] [INFO] Epoch: 44, train_loss: 1.3796, val_loss: 1.7781, train_acc: 0.6262, val_acc: 0.5247
+[20231203-003956] [INFO] elapsed_time: 156.08 min
+[20231203-004329] [INFO] Epoch: 45, train_loss: 1.3713, val_loss: 1.7347, train_acc: 0.6231, val_acc: 0.5533
+[20231203-004329] [INFO] elapsed_time: 159.63 min
+[20231203-004702] [INFO] Epoch: 46, train_loss: 1.3414, val_loss: 1.7531, train_acc: 0.6305, val_acc: 0.5428
+[20231203-004702] [INFO] elapsed_time: 163.19 min
+[20231203-005034] [INFO] Epoch: 47, train_loss: 1.2749, val_loss: 1.7168, train_acc: 0.6489, val_acc: 0.5490
+[20231203-005034] [INFO] elapsed_time: 166.71 min
+[20231203-005406] [INFO] Epoch: 48, train_loss: 1.2640, val_loss: 1.7103, train_acc: 0.6543, val_acc: 0.5543
+[20231203-005406] [INFO] elapsed_time: 170.25 min
+[20231203-005739] [INFO] Epoch: 49, train_loss: 1.2366, val_loss: 1.7535, train_acc: 0.6600, val_acc: 0.5410
+[20231203-005739] [INFO] elapsed_time: 173.80 min
+[20231203-010110] [INFO] Epoch: 50, train_loss: 1.2277, val_loss: 1.7538, train_acc: 0.6604, val_acc: 0.5410
+[20231203-010110] [INFO] elapsed_time: 177.32 min
+[20231203-010442] [INFO] Epoch: 51, train_loss: 1.2668, val_loss: 1.7163, train_acc: 0.6469, val_acc: 0.5487
+[20231203-010442] [INFO] elapsed_time: 180.85 min
+[20231203-010814] [INFO] Epoch: 52, train_loss: 1.2545, val_loss: 1.6732, train_acc: 0.6484, val_acc: 0.5648
+[20231203-010814] [INFO] elapsed_time: 184.39 min
+[20231203-011151] [INFO] Epoch: 53, train_loss: 1.2942, val_loss: 1.7201, train_acc: 0.6421, val_acc: 0.5478
+[20231203-011151] [INFO] elapsed_time: 188.00 min
+[20231203-011524] [INFO] Epoch: 54, train_loss: 1.3015, val_loss: 1.8123, train_acc: 0.6423, val_acc: 0.5244
+[20231203-011524] [INFO] elapsed_time: 191.56 min
+[20231203-011858] [INFO] Epoch: 55, train_loss: 1.2425, val_loss: 1.7323, train_acc: 0.6610, val_acc: 0.5478
+[20231203-011858] [INFO] elapsed_time: 195.11 min
+[20231203-012230] [INFO] Epoch: 56, train_loss: 1.1759, val_loss: 1.6774, train_acc: 0.6885, val_acc: 0.5623
+[20231203-012230] [INFO] elapsed_time: 198.66 min
+[20231203-012603] [INFO] Epoch: 57, train_loss: 1.2147, val_loss: 1.7431, train_acc: 0.6706, val_acc: 0.5466
+[20231203-012603] [INFO] elapsed_time: 202.20 min
+[20231203-012935] [INFO] Epoch: 58, train_loss: 1.1270, val_loss: 1.6436, train_acc: 0.6899, val_acc: 0.5747
+[20231203-012935] [INFO] elapsed_time: 205.74 min
+[20231203-013308] [INFO] Epoch: 59, train_loss: 1.0850, val_loss: 1.6491, train_acc: 0.7085, val_acc: 0.5745
+[20231203-013308] [INFO] elapsed_time: 209.28 min
+[20231203-013641] [INFO] Epoch: 60, train_loss: 1.1342, val_loss: 1.6822, train_acc: 0.6894, val_acc: 0.5644
+[20231203-013641] [INFO] elapsed_time: 212.84 min
+[20231203-014015] [INFO] Epoch: 61, train_loss: 1.2131, val_loss: 1.7485, train_acc: 0.6654, val_acc: 0.5419
+[20231203-014015] [INFO] elapsed_time: 216.40 min
+[20231203-014348] [INFO] Epoch: 62, train_loss: 1.1509, val_loss: 1.5848, train_acc: 0.6817, val_acc: 0.5955
+[20231203-014348] [INFO] elapsed_time: 219.95 min
+[20231203-014722] [INFO] Epoch: 63, train_loss: 1.0469, val_loss: 1.6573, train_acc: 0.7226, val_acc: 0.5681
+[20231203-014722] [INFO] elapsed_time: 223.51 min
+[20231203-015053] [INFO] Epoch: 64, train_loss: 1.1091, val_loss: 1.6846, train_acc: 0.7088, val_acc: 0.5673
+[20231203-015053] [INFO] elapsed_time: 227.04 min
+[20231203-015426] [INFO] Epoch: 65, train_loss: 1.0983, val_loss: 1.6230, train_acc: 0.7080, val_acc: 0.5776
+[20231203-015426] [INFO] elapsed_time: 230.59 min
+[20231203-015759] [INFO] Epoch: 66, train_loss: 1.1565, val_loss: 1.6588, train_acc: 0.6906, val_acc: 0.5765
+[20231203-015759] [INFO] elapsed_time: 234.13 min
+[20231203-020132] [INFO] Epoch: 67, train_loss: 1.0505, val_loss: 1.6331, train_acc: 0.7161, val_acc: 0.5741
+[20231203-020132] [INFO] elapsed_time: 237.69 min
+[20231203-020505] [INFO] Epoch: 68, train_loss: 1.0241, val_loss: 1.5848, train_acc: 0.7293, val_acc: 0.5992
+[20231203-020505] [INFO] elapsed_time: 241.24 min
+[20231203-020838] [INFO] Epoch: 69, train_loss: 1.0402, val_loss: 1.6476, train_acc: 0.7178, val_acc: 0.5741
+[20231203-020838] [INFO] elapsed_time: 244.79 min
+[20231203-021212] [INFO] Epoch: 70, train_loss: 0.9916, val_loss: 1.5534, train_acc: 0.7370, val_acc: 0.6057
+[20231203-021212] [INFO] elapsed_time: 248.35 min
+[20231203-021544] [INFO] Epoch: 71, train_loss: 1.0600, val_loss: 1.6157, train_acc: 0.7189, val_acc: 0.5937
+[20231203-021544] [INFO] elapsed_time: 251.89 min
+[20231203-021916] [INFO] Epoch: 72, train_loss: 1.0144, val_loss: 1.5775, train_acc: 0.7292, val_acc: 0.6016
+[20231203-021916] [INFO] elapsed_time: 255.42 min
+[20231203-022249] [INFO] Epoch: 73, train_loss: 0.9648, val_loss: 1.5877, train_acc: 0.7382, val_acc: 0.5934
+[20231203-022249] [INFO] elapsed_time: 258.97 min
+[20231203-022622] [INFO] Epoch: 74, train_loss: 0.9811, val_loss: 1.6438, train_acc: 0.7302, val_acc: 0.5786
+[20231203-022622] [INFO] elapsed_time: 262.52 min
+[20231203-022956] [INFO] Epoch: 75, train_loss: 1.0602, val_loss: 1.6047, train_acc: 0.7113, val_acc: 0.5967
+[20231203-022956] [INFO] elapsed_time: 266.08 min
+[20231203-023328] [INFO] Epoch: 76, train_loss: 0.9439, val_loss: 1.5670, train_acc: 0.7471, val_acc: 0.6027
+[20231203-023328] [INFO] elapsed_time: 269.62 min
+[20231203-023700] [INFO] Epoch: 77, train_loss: 0.9574, val_loss: 1.5954, train_acc: 0.7426, val_acc: 0.5882
+[20231203-023700] [INFO] elapsed_time: 273.15 min
+[20231203-024032] [INFO] Epoch: 78, train_loss: 0.9547, val_loss: 1.5672, train_acc: 0.7452, val_acc: 0.5997
+[20231203-024032] [INFO] elapsed_time: 276.69 min
+[20231203-024405] [INFO] Epoch: 79, train_loss: 0.9746, val_loss: 1.6431, train_acc: 0.7469, val_acc: 0.5791
+[20231203-024405] [INFO] elapsed_time: 280.24 min
+[20231203-024738] [INFO] Epoch: 80, train_loss: 0.9749, val_loss: 1.6957, train_acc: 0.7428, val_acc: 0.5554
+[20231203-024738] [INFO] elapsed_time: 283.78 min
+[20231203-025111] [INFO] Epoch: 81, train_loss: 0.9727, val_loss: 1.7696, train_acc: 0.7314, val_acc: 0.5457
+[20231203-025111] [INFO] elapsed_time: 287.33 min
+[20231203-025443] [INFO] Epoch: 82, train_loss: 1.0021, val_loss: 1.6388, train_acc: 0.7296, val_acc: 0.5769
+[20231203-025443] [INFO] elapsed_time: 290.86 min
+[20231203-025816] [INFO] Epoch: 83, train_loss: 0.9393, val_loss: 1.6840, train_acc: 0.7541, val_acc: 0.5680
+[20231203-025816] [INFO] elapsed_time: 294.41 min
+[20231203-030148] [INFO] Epoch: 84, train_loss: 0.9101, val_loss: 1.5535, train_acc: 0.7624, val_acc: 0.6092
+[20231203-030148] [INFO] elapsed_time: 297.95 min
+[20231203-030521] [INFO] Epoch: 85, train_loss: 0.9320, val_loss: 1.6133, train_acc: 0.7513, val_acc: 0.5910
+[20231203-030521] [INFO] elapsed_time: 301.50 min
+[20231203-030853] [INFO] Epoch: 86, train_loss: 0.8912, val_loss: 1.5623, train_acc: 0.7667, val_acc: 0.6081
+[20231203-030853] [INFO] elapsed_time: 305.03 min
+[20231203-031225] [INFO] Epoch: 87, train_loss: 0.8599, val_loss: 1.5734, train_acc: 0.7786, val_acc: 0.5943
+[20231203-031225] [INFO] elapsed_time: 308.57 min
+[20231203-031557] [INFO] Epoch: 88, train_loss: 0.9225, val_loss: 1.5691, train_acc: 0.7524, val_acc: 0.6024
+[20231203-031557] [INFO] elapsed_time: 312.11 min
+[20231203-031930] [INFO] Epoch: 89, train_loss: 0.9027, val_loss: 1.7099, train_acc: 0.7627, val_acc: 0.5609
+[20231203-031930] [INFO] elapsed_time: 315.65 min
+[20231203-032303] [INFO] Epoch: 90, train_loss: 0.9986, val_loss: 1.6223, train_acc: 0.7356, val_acc: 0.5884
+[20231203-032303] [INFO] elapsed_time: 319.19 min
+[20231203-032635] [INFO] Epoch: 91, train_loss: 0.9464, val_loss: 1.6858, train_acc: 0.7468, val_acc: 0.5705
+[20231203-032635] [INFO] elapsed_time: 322.73 min
+[20231203-033007] [INFO] Epoch: 92, train_loss: 0.9144, val_loss: 1.5642, train_acc: 0.7569, val_acc: 0.6061
+[20231203-033007] [INFO] elapsed_time: 326.27 min
+[20231203-033339] [INFO] Epoch: 93, train_loss: 0.8873, val_loss: 1.6478, train_acc: 0.7622, val_acc: 0.5791
+[20231203-033339] [INFO] elapsed_time: 329.80 min
+[20231203-033712] [INFO] Epoch: 94, train_loss: 0.9117, val_loss: 1.5370, train_acc: 0.7565, val_acc: 0.6160
+[20231203-033712] [INFO] elapsed_time: 333.35 min
+[20231203-034046] [INFO] Epoch: 95, train_loss: 0.8825, val_loss: 1.6077, train_acc: 0.7675, val_acc: 0.5847
+[20231203-034046] [INFO] elapsed_time: 336.91 min
+[20231203-034418] [INFO] Epoch: 96, train_loss: 0.9250, val_loss: 1.6722, train_acc: 0.7477, val_acc: 0.5787
+[20231203-034418] [INFO] elapsed_time: 340.46 min
+[20231203-034751] [INFO] Epoch: 97, train_loss: 0.8490, val_loss: 1.5142, train_acc: 0.7763, val_acc: 0.6205
+[20231203-034751] [INFO] elapsed_time: 344.00 min
+[20231203-035124] [INFO] Epoch: 98, train_loss: 0.8725, val_loss: 1.5987, train_acc: 0.7668, val_acc: 0.5982
+[20231203-035124] [INFO] elapsed_time: 347.55 min
+[20231203-035456] [INFO] Epoch: 99, train_loss: 0.9006, val_loss: 1.5373, train_acc: 0.7633, val_acc: 0.6108
+[20231203-035456] [INFO] elapsed_time: 351.09 min
+[20231203-035829] [INFO] Epoch: 100, train_loss: 0.8330, val_loss: 1.5080, train_acc: 0.7796, val_acc: 0.6254
+[20231203-035829] [INFO] elapsed_time: 354.63 min
+[20231203-035830] [INFO] argument
+[20231203-035830] [INFO]   note: None
+[20231203-035830] [INFO]   seed: 24771
+[20231203-035830] [INFO]   dir_result: ViT/lr1e-5_b256
+[20231203-035830] [INFO]   model_name: ViT
+[20231203-035830] [INFO]   num_epoch: 100
+[20231203-035830] [INFO]   batch_size: 256
+[20231203-035830] [INFO]   lr: 1e-05
+[20231203-035830] [INFO]   patience: 25
+[20231203-035830] [INFO]   delta: 0.002
+[20231203-035830] [INFO]   lr_min: 1e-05
+[20231203-035830] [INFO]   warmup_t: 10
+[20231203-035830] [INFO]   warmup_lr_init: 1e-05
+[20231203-035830] [INFO] loss
+[20231203-035830] [INFO]   training: True
+[20231203-035830] [INFO]   reduction: mean
+[20231203-035830] [INFO]   ignore_index: -100
+[20231203-035830] [INFO]   label_smoothing: 0.0
+[20231203-035830] [INFO] optimizer
+[20231203-035830] [INFO]   defaults: {'lr': 1e-05, 'betas': (0.9, 0.999), 'eps': 1e-08, 'weight_decay': 0, 'amsgrad': False, 'maximize': False, 'foreach': None, 'capturable': False, 'differentiable': False, 'fused': None}
+[20231203-035830] [INFO] scheduler
+[20231203-035830] [INFO]   optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    initial_lr: 1e-05
+    lr: 1e-05
+    maximize: False
+    weight_decay: 0
+)
+[20231203-035830] [INFO]   param_group_field: lr
+[20231203-035830] [INFO]   base_values: [1e-05]
+[20231203-035830] [INFO]   metric: None
+[20231203-035830] [INFO]   t_in_epochs: True
+[20231203-035830] [INFO]   noise_range_t: None
+[20231203-035830] [INFO]   noise_pct: 0.67
+[20231203-035830] [INFO]   noise_type: normal
+[20231203-035830] [INFO]   noise_std: 1.0
+[20231203-035830] [INFO]   noise_seed: 42
+[20231203-035830] [INFO]   t_initial: 100
+[20231203-035830] [INFO]   lr_min: 1e-05
+[20231203-035830] [INFO]   cycle_mul: 1.0
+[20231203-035830] [INFO]   cycle_decay: 1.0
+[20231203-035830] [INFO]   cycle_limit: 1
+[20231203-035830] [INFO]   warmup_t: 10
+[20231203-035830] [INFO]   warmup_lr_init: 1e-05
+[20231203-035830] [INFO]   warmup_prefix: True
+[20231203-035830] [INFO]   k_decay: 1.0
+[20231203-035830] [INFO]   warmup_steps: [0.0]

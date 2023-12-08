@@ -1,0 +1,254 @@
+[20231205-212653] [INFO] Epoch: 1, train_loss: 6.8650, val_loss: 6.8326, train_acc: 0.0010, val_acc: 0.0013
+[20231205-212653] [INFO] elapsed_time: 3.52 min
+[20231205-213019] [INFO] Epoch: 2, train_loss: 6.7978, val_loss: 6.7741, train_acc: 0.0020, val_acc: 0.0036
+[20231205-213019] [INFO] elapsed_time: 6.96 min
+[20231205-213346] [INFO] Epoch: 3, train_loss: 6.7067, val_loss: 6.6288, train_acc: 0.0058, val_acc: 0.0081
+[20231205-213346] [INFO] elapsed_time: 10.41 min
+[20231205-213713] [INFO] Epoch: 4, train_loss: 6.4893, val_loss: 6.2693, train_acc: 0.0090, val_acc: 0.0153
+[20231205-213713] [INFO] elapsed_time: 13.86 min
+[20231205-214040] [INFO] Epoch: 5, train_loss: 6.1094, val_loss: 5.7793, train_acc: 0.0134, val_acc: 0.0289
+[20231205-214040] [INFO] elapsed_time: 17.31 min
+[20231205-214407] [INFO] Epoch: 6, train_loss: 5.6649, val_loss: 5.2308, train_acc: 0.0208, val_acc: 0.0439
+[20231205-214407] [INFO] elapsed_time: 20.75 min
+[20231205-214735] [INFO] Epoch: 7, train_loss: 5.2917, val_loss: 4.9441, train_acc: 0.0299, val_acc: 0.0460
+[20231205-214735] [INFO] elapsed_time: 24.22 min
+[20231205-215102] [INFO] Epoch: 8, train_loss: 4.9260, val_loss: 4.6171, train_acc: 0.0382, val_acc: 0.0602
+[20231205-215102] [INFO] elapsed_time: 27.67 min
+[20231205-215430] [INFO] Epoch: 9, train_loss: 4.6428, val_loss: 4.4368, train_acc: 0.0542, val_acc: 0.0700
+[20231205-215430] [INFO] elapsed_time: 31.13 min
+[20231205-215756] [INFO] Epoch: 10, train_loss: 4.4087, val_loss: 4.0120, train_acc: 0.0683, val_acc: 0.1098
+[20231205-215756] [INFO] elapsed_time: 34.57 min
+[20231205-220123] [INFO] Epoch: 11, train_loss: 4.2300, val_loss: 4.1616, train_acc: 0.0800, val_acc: 0.0812
+[20231205-220123] [INFO] elapsed_time: 38.03 min
+[20231205-220450] [INFO] Epoch: 12, train_loss: 4.0467, val_loss: 4.0596, train_acc: 0.0954, val_acc: 0.0893
+[20231205-220450] [INFO] elapsed_time: 41.47 min
+[20231205-220817] [INFO] Epoch: 13, train_loss: 3.8961, val_loss: 4.5577, train_acc: 0.1085, val_acc: 0.0724
+[20231205-220817] [INFO] elapsed_time: 44.92 min
+[20231205-221144] [INFO] Epoch: 14, train_loss: 3.7859, val_loss: 3.5034, train_acc: 0.1260, val_acc: 0.1635
+[20231205-221144] [INFO] elapsed_time: 48.36 min
+[20231205-221510] [INFO] Epoch: 15, train_loss: 3.5888, val_loss: 3.5582, train_acc: 0.1422, val_acc: 0.1393
+[20231205-221510] [INFO] elapsed_time: 51.80 min
+[20231205-221837] [INFO] Epoch: 16, train_loss: 3.4960, val_loss: 3.3510, train_acc: 0.1612, val_acc: 0.1744
+[20231205-221837] [INFO] elapsed_time: 55.25 min
+[20231205-222205] [INFO] Epoch: 17, train_loss: 3.3731, val_loss: 3.3418, train_acc: 0.1702, val_acc: 0.1793
+[20231205-222205] [INFO] elapsed_time: 58.71 min
+[20231205-222532] [INFO] Epoch: 18, train_loss: 3.3246, val_loss: 3.3362, train_acc: 0.1779, val_acc: 0.1802
+[20231205-222532] [INFO] elapsed_time: 62.17 min
+[20231205-222859] [INFO] Epoch: 19, train_loss: 3.2375, val_loss: 3.5274, train_acc: 0.1916, val_acc: 0.1576
+[20231205-222859] [INFO] elapsed_time: 65.62 min
+[20231205-223226] [INFO] Epoch: 20, train_loss: 3.1373, val_loss: 3.0845, train_acc: 0.2140, val_acc: 0.2256
+[20231205-223226] [INFO] elapsed_time: 69.08 min
+[20231205-223554] [INFO] Epoch: 21, train_loss: 3.1086, val_loss: 3.2050, train_acc: 0.2098, val_acc: 0.2011
+[20231205-223554] [INFO] elapsed_time: 72.53 min
+[20231205-223921] [INFO] Epoch: 22, train_loss: 3.0364, val_loss: 3.0845, train_acc: 0.2316, val_acc: 0.2239
+[20231205-223921] [INFO] elapsed_time: 75.98 min
+[20231205-224247] [INFO] Epoch: 23, train_loss: 2.9505, val_loss: 3.2314, train_acc: 0.2423, val_acc: 0.2110
+[20231205-224247] [INFO] elapsed_time: 79.42 min
+[20231205-224614] [INFO] Epoch: 24, train_loss: 2.9267, val_loss: 3.0185, train_acc: 0.2458, val_acc: 0.2396
+[20231205-224614] [INFO] elapsed_time: 82.86 min
+[20231205-224941] [INFO] Epoch: 25, train_loss: 2.8694, val_loss: 2.9631, train_acc: 0.2649, val_acc: 0.2439
+[20231205-224941] [INFO] elapsed_time: 86.31 min
+[20231205-225307] [INFO] Epoch: 26, train_loss: 2.7813, val_loss: 3.3046, train_acc: 0.2797, val_acc: 0.1969
+[20231205-225307] [INFO] elapsed_time: 89.76 min
+[20231205-225634] [INFO] Epoch: 27, train_loss: 2.7747, val_loss: 2.9704, train_acc: 0.2733, val_acc: 0.2475
+[20231205-225634] [INFO] elapsed_time: 93.21 min
+[20231205-230001] [INFO] Epoch: 28, train_loss: 2.6802, val_loss: 2.8842, train_acc: 0.2942, val_acc: 0.2533
+[20231205-230001] [INFO] elapsed_time: 96.65 min
+[20231205-230328] [INFO] Epoch: 29, train_loss: 2.6557, val_loss: 2.8149, train_acc: 0.3014, val_acc: 0.2736
+[20231205-230328] [INFO] elapsed_time: 100.11 min
+[20231205-230655] [INFO] Epoch: 30, train_loss: 2.6190, val_loss: 2.9820, train_acc: 0.3036, val_acc: 0.2560
+[20231205-230655] [INFO] elapsed_time: 103.55 min
+[20231205-231022] [INFO] Epoch: 31, train_loss: 2.5316, val_loss: 2.9722, train_acc: 0.3236, val_acc: 0.2467
+[20231205-231022] [INFO] elapsed_time: 107.00 min
+[20231205-231349] [INFO] Epoch: 32, train_loss: 2.5065, val_loss: 2.7184, train_acc: 0.3313, val_acc: 0.3045
+[20231205-231349] [INFO] elapsed_time: 110.46 min
+[20231205-231717] [INFO] Epoch: 33, train_loss: 2.5143, val_loss: 3.0249, train_acc: 0.3319, val_acc: 0.2447
+[20231205-231717] [INFO] elapsed_time: 113.92 min
+[20231205-232044] [INFO] Epoch: 34, train_loss: 2.4733, val_loss: 2.7343, train_acc: 0.3400, val_acc: 0.2921
+[20231205-232044] [INFO] elapsed_time: 117.37 min
+[20231205-232410] [INFO] Epoch: 35, train_loss: 2.3935, val_loss: 2.7194, train_acc: 0.3642, val_acc: 0.3036
+[20231205-232410] [INFO] elapsed_time: 120.81 min
+[20231205-232737] [INFO] Epoch: 36, train_loss: 2.3698, val_loss: 2.8604, train_acc: 0.3620, val_acc: 0.2786
+[20231205-232737] [INFO] elapsed_time: 124.26 min
+[20231205-233106] [INFO] Epoch: 37, train_loss: 2.3368, val_loss: 2.7653, train_acc: 0.3692, val_acc: 0.2868
+[20231205-233106] [INFO] elapsed_time: 127.74 min
+[20231205-233433] [INFO] Epoch: 38, train_loss: 2.3469, val_loss: 2.7082, train_acc: 0.3708, val_acc: 0.3055
+[20231205-233433] [INFO] elapsed_time: 131.18 min
+[20231205-233800] [INFO] Epoch: 39, train_loss: 2.2712, val_loss: 2.5915, train_acc: 0.3866, val_acc: 0.3339
+[20231205-233800] [INFO] elapsed_time: 134.63 min
+[20231205-234126] [INFO] Epoch: 40, train_loss: 2.2519, val_loss: 2.6613, train_acc: 0.3932, val_acc: 0.3203
+[20231205-234126] [INFO] elapsed_time: 138.08 min
+[20231205-234453] [INFO] Epoch: 41, train_loss: 2.2220, val_loss: 2.6542, train_acc: 0.4004, val_acc: 0.3286
+[20231205-234453] [INFO] elapsed_time: 141.52 min
+[20231205-234819] [INFO] Epoch: 42, train_loss: 2.1759, val_loss: 2.8648, train_acc: 0.4130, val_acc: 0.3008
+[20231205-234819] [INFO] elapsed_time: 144.96 min
+[20231205-235147] [INFO] Epoch: 43, train_loss: 2.2075, val_loss: 2.7104, train_acc: 0.3990, val_acc: 0.3106
+[20231205-235147] [INFO] elapsed_time: 148.42 min
+[20231205-235514] [INFO] Epoch: 44, train_loss: 2.0985, val_loss: 2.5833, train_acc: 0.4303, val_acc: 0.3448
+[20231205-235514] [INFO] elapsed_time: 151.87 min
+[20231205-235841] [INFO] Epoch: 45, train_loss: 2.0497, val_loss: 2.6876, train_acc: 0.4383, val_acc: 0.3295
+[20231205-235841] [INFO] elapsed_time: 155.33 min
+[20231206-000208] [INFO] Epoch: 46, train_loss: 2.0491, val_loss: 2.5394, train_acc: 0.4364, val_acc: 0.3473
+[20231206-000208] [INFO] elapsed_time: 158.78 min
+[20231206-000536] [INFO] Epoch: 47, train_loss: 2.0189, val_loss: 2.6793, train_acc: 0.4483, val_acc: 0.3274
+[20231206-000536] [INFO] elapsed_time: 162.23 min
+[20231206-000903] [INFO] Epoch: 48, train_loss: 2.0240, val_loss: 2.5590, train_acc: 0.4560, val_acc: 0.3552
+[20231206-000903] [INFO] elapsed_time: 165.68 min
+[20231206-001230] [INFO] Epoch: 49, train_loss: 2.0069, val_loss: 2.5945, train_acc: 0.4513, val_acc: 0.3438
+[20231206-001230] [INFO] elapsed_time: 169.13 min
+[20231206-001557] [INFO] Epoch: 50, train_loss: 1.9606, val_loss: 2.6996, train_acc: 0.4625, val_acc: 0.3284
+[20231206-001557] [INFO] elapsed_time: 172.58 min
+[20231206-001923] [INFO] Epoch: 51, train_loss: 1.9245, val_loss: 2.5868, train_acc: 0.4717, val_acc: 0.3450
+[20231206-001923] [INFO] elapsed_time: 176.03 min
+[20231206-002251] [INFO] Epoch: 52, train_loss: 1.9159, val_loss: 2.6312, train_acc: 0.4743, val_acc: 0.3382
+[20231206-002251] [INFO] elapsed_time: 179.48 min
+[20231206-002617] [INFO] Epoch: 53, train_loss: 1.8980, val_loss: 2.5676, train_acc: 0.4854, val_acc: 0.3534
+[20231206-002617] [INFO] elapsed_time: 182.92 min
+[20231206-002944] [INFO] Epoch: 54, train_loss: 1.8835, val_loss: 2.7601, train_acc: 0.4893, val_acc: 0.3289
+[20231206-002944] [INFO] elapsed_time: 186.37 min
+[20231206-003311] [INFO] Epoch: 55, train_loss: 1.8843, val_loss: 2.6154, train_acc: 0.4889, val_acc: 0.3506
+[20231206-003311] [INFO] elapsed_time: 189.81 min
+[20231206-003637] [INFO] Epoch: 56, train_loss: 1.8241, val_loss: 2.5422, train_acc: 0.5022, val_acc: 0.3659
+[20231206-003637] [INFO] elapsed_time: 193.26 min
+[20231206-004005] [INFO] Epoch: 57, train_loss: 1.7617, val_loss: 2.5794, train_acc: 0.5167, val_acc: 0.3627
+[20231206-004005] [INFO] elapsed_time: 196.71 min
+[20231206-004332] [INFO] Epoch: 58, train_loss: 1.7473, val_loss: 2.5173, train_acc: 0.5324, val_acc: 0.3671
+[20231206-004332] [INFO] elapsed_time: 200.17 min
+[20231206-004659] [INFO] Epoch: 59, train_loss: 1.7292, val_loss: 2.7709, train_acc: 0.5252, val_acc: 0.3524
+[20231206-004659] [INFO] elapsed_time: 203.62 min
+[20231206-005026] [INFO] Epoch: 60, train_loss: 1.7700, val_loss: 2.6513, train_acc: 0.5166, val_acc: 0.3614
+[20231206-005026] [INFO] elapsed_time: 207.07 min
+[20231206-005353] [INFO] Epoch: 61, train_loss: 1.7066, val_loss: 2.6110, train_acc: 0.5311, val_acc: 0.3895
+[20231206-005353] [INFO] elapsed_time: 210.51 min
+[20231206-005720] [INFO] Epoch: 62, train_loss: 1.6698, val_loss: 2.7405, train_acc: 0.5491, val_acc: 0.3473
+[20231206-005720] [INFO] elapsed_time: 213.97 min
+[20231206-010047] [INFO] Epoch: 63, train_loss: 1.6738, val_loss: 2.6226, train_acc: 0.5453, val_acc: 0.3772
+[20231206-010047] [INFO] elapsed_time: 217.42 min
+[20231206-010414] [INFO] Epoch: 64, train_loss: 1.6310, val_loss: 2.6275, train_acc: 0.5555, val_acc: 0.3874
+[20231206-010414] [INFO] elapsed_time: 220.86 min
+[20231206-010740] [INFO] Epoch: 65, train_loss: 1.6154, val_loss: 2.5884, train_acc: 0.5654, val_acc: 0.3862
+[20231206-010740] [INFO] elapsed_time: 224.31 min
+[20231206-011108] [INFO] Epoch: 66, train_loss: 1.5936, val_loss: 2.5766, train_acc: 0.5684, val_acc: 0.3816
+[20231206-011108] [INFO] elapsed_time: 227.77 min
+[20231206-011435] [INFO] Epoch: 67, train_loss: 1.5958, val_loss: 2.6444, train_acc: 0.5678, val_acc: 0.3835
+[20231206-011435] [INFO] elapsed_time: 231.23 min
+[20231206-011802] [INFO] Epoch: 68, train_loss: 1.5734, val_loss: 2.6498, train_acc: 0.5798, val_acc: 0.3880
+[20231206-011802] [INFO] elapsed_time: 234.67 min
+[20231206-012129] [INFO] Epoch: 69, train_loss: 1.5547, val_loss: 2.6447, train_acc: 0.5833, val_acc: 0.3702
+[20231206-012129] [INFO] elapsed_time: 238.12 min
+[20231206-012456] [INFO] Epoch: 70, train_loss: 1.5298, val_loss: 2.7353, train_acc: 0.5887, val_acc: 0.3721
+[20231206-012456] [INFO] elapsed_time: 241.57 min
+[20231206-012823] [INFO] Epoch: 71, train_loss: 1.5269, val_loss: 2.6621, train_acc: 0.5888, val_acc: 0.3857
+[20231206-012823] [INFO] elapsed_time: 245.02 min
+[20231206-013150] [INFO] Epoch: 72, train_loss: 1.5125, val_loss: 2.7294, train_acc: 0.5996, val_acc: 0.3900
+[20231206-013150] [INFO] elapsed_time: 248.48 min
+[20231206-013518] [INFO] Epoch: 73, train_loss: 1.4796, val_loss: 2.6011, train_acc: 0.5997, val_acc: 0.3981
+[20231206-013518] [INFO] elapsed_time: 251.94 min
+[20231206-013845] [INFO] Epoch: 74, train_loss: 1.4770, val_loss: 2.6281, train_acc: 0.6050, val_acc: 0.4055
+[20231206-013845] [INFO] elapsed_time: 255.39 min
+[20231206-014212] [INFO] Epoch: 75, train_loss: 1.4621, val_loss: 2.6915, train_acc: 0.6115, val_acc: 0.4037
+[20231206-014212] [INFO] elapsed_time: 258.83 min
+[20231206-014538] [INFO] Epoch: 76, train_loss: 1.4452, val_loss: 2.7974, train_acc: 0.6140, val_acc: 0.3725
+[20231206-014538] [INFO] elapsed_time: 262.28 min
+[20231206-014905] [INFO] Epoch: 77, train_loss: 1.4177, val_loss: 2.6515, train_acc: 0.6275, val_acc: 0.3947
+[20231206-014905] [INFO] elapsed_time: 265.72 min
+[20231206-015232] [INFO] Epoch: 78, train_loss: 1.4024, val_loss: 2.7464, train_acc: 0.6286, val_acc: 0.3956
+[20231206-015232] [INFO] elapsed_time: 269.17 min
+[20231206-015559] [INFO] Epoch: 79, train_loss: 1.4016, val_loss: 2.6965, train_acc: 0.6327, val_acc: 0.4145
+[20231206-015559] [INFO] elapsed_time: 272.61 min
+[20231206-015925] [INFO] Epoch: 80, train_loss: 1.4313, val_loss: 2.6531, train_acc: 0.6195, val_acc: 0.4023
+[20231206-015925] [INFO] elapsed_time: 276.06 min
+[20231206-020252] [INFO] Epoch: 81, train_loss: 1.3551, val_loss: 2.5003, train_acc: 0.6489, val_acc: 0.4059
+[20231206-020252] [INFO] elapsed_time: 279.51 min
+[20231206-020619] [INFO] Epoch: 82, train_loss: 1.3657, val_loss: 2.7103, train_acc: 0.6459, val_acc: 0.4161
+[20231206-020619] [INFO] elapsed_time: 282.96 min
+[20231206-020946] [INFO] Epoch: 83, train_loss: 1.3930, val_loss: 2.8121, train_acc: 0.6356, val_acc: 0.4060
+[20231206-020946] [INFO] elapsed_time: 286.40 min
+[20231206-021313] [INFO] Epoch: 84, train_loss: 1.3529, val_loss: 2.7123, train_acc: 0.6474, val_acc: 0.4158
+[20231206-021313] [INFO] elapsed_time: 289.85 min
+[20231206-021640] [INFO] Epoch: 85, train_loss: 1.3215, val_loss: 2.6775, train_acc: 0.6529, val_acc: 0.4240
+[20231206-021640] [INFO] elapsed_time: 293.30 min
+[20231206-022007] [INFO] Epoch: 86, train_loss: 1.3371, val_loss: 2.7156, train_acc: 0.6470, val_acc: 0.4132
+[20231206-022007] [INFO] elapsed_time: 296.75 min
+[20231206-022334] [INFO] Epoch: 87, train_loss: 1.3376, val_loss: 2.7536, train_acc: 0.6582, val_acc: 0.4065
+[20231206-022334] [INFO] elapsed_time: 300.21 min
+[20231206-022701] [INFO] Epoch: 88, train_loss: 1.3212, val_loss: 2.8067, train_acc: 0.6589, val_acc: 0.4118
+[20231206-022701] [INFO] elapsed_time: 303.65 min
+[20231206-023028] [INFO] Epoch: 89, train_loss: 1.2835, val_loss: 2.6147, train_acc: 0.6674, val_acc: 0.4153
+[20231206-023028] [INFO] elapsed_time: 307.10 min
+[20231206-023355] [INFO] Epoch: 90, train_loss: 1.2798, val_loss: 2.6545, train_acc: 0.6695, val_acc: 0.4141
+[20231206-023355] [INFO] elapsed_time: 310.56 min
+[20231206-023722] [INFO] Epoch: 91, train_loss: 1.2966, val_loss: 2.6709, train_acc: 0.6735, val_acc: 0.4076
+[20231206-023722] [INFO] elapsed_time: 314.01 min
+[20231206-024049] [INFO] Epoch: 92, train_loss: 1.2867, val_loss: 2.6932, train_acc: 0.6731, val_acc: 0.4192
+[20231206-024049] [INFO] elapsed_time: 317.46 min
+[20231206-024417] [INFO] Epoch: 93, train_loss: 1.2407, val_loss: 2.7425, train_acc: 0.6774, val_acc: 0.4053
+[20231206-024417] [INFO] elapsed_time: 320.91 min
+[20231206-024743] [INFO] Epoch: 94, train_loss: 1.2441, val_loss: 2.7503, train_acc: 0.6797, val_acc: 0.4138
+[20231206-024743] [INFO] elapsed_time: 324.35 min
+[20231206-025110] [INFO] Epoch: 95, train_loss: 1.2612, val_loss: 2.7048, train_acc: 0.6779, val_acc: 0.4268
+[20231206-025110] [INFO] elapsed_time: 327.80 min
+[20231206-025437] [INFO] Epoch: 96, train_loss: 1.2436, val_loss: 2.6804, train_acc: 0.6820, val_acc: 0.4171
+[20231206-025437] [INFO] elapsed_time: 331.25 min
+[20231206-025804] [INFO] Epoch: 97, train_loss: 1.2442, val_loss: 2.7039, train_acc: 0.6828, val_acc: 0.4199
+[20231206-025804] [INFO] elapsed_time: 334.70 min
+[20231206-030131] [INFO] Epoch: 98, train_loss: 1.2527, val_loss: 2.7836, train_acc: 0.6794, val_acc: 0.4154
+[20231206-030131] [INFO] elapsed_time: 338.14 min
+[20231206-030457] [INFO] Epoch: 99, train_loss: 1.2152, val_loss: 2.6851, train_acc: 0.6907, val_acc: 0.4163
+[20231206-030457] [INFO] elapsed_time: 341.59 min
+[20231206-030824] [INFO] Epoch: 100, train_loss: 1.2209, val_loss: 2.6548, train_acc: 0.6923, val_acc: 0.4216
+[20231206-030824] [INFO] elapsed_time: 345.04 min
+[20231206-030825] [INFO] argument
+[20231206-030825] [INFO]   note: None
+[20231206-030825] [INFO]   seed: 24771
+[20231206-030825] [INFO]   dir_result: ResNet50/lr1e-4_b512
+[20231206-030825] [INFO]   model_name: ResNet50
+[20231206-030825] [INFO]   num_epoch: 100
+[20231206-030825] [INFO]   batch_size: 512
+[20231206-030825] [INFO]   lr: 0.0001
+[20231206-030825] [INFO]   patience: 25
+[20231206-030825] [INFO]   delta: 0.002
+[20231206-030825] [INFO]   lr_min: 1e-05
+[20231206-030825] [INFO]   warmup_t: 10
+[20231206-030825] [INFO]   warmup_lr_init: 1e-05
+[20231206-030825] [INFO] loss
+[20231206-030825] [INFO]   training: True
+[20231206-030825] [INFO]   reduction: mean
+[20231206-030825] [INFO]   ignore_index: -100
+[20231206-030825] [INFO]   label_smoothing: 0.0
+[20231206-030825] [INFO] optimizer
+[20231206-030825] [INFO]   defaults: {'lr': 0.0001, 'betas': (0.9, 0.999), 'eps': 1e-08, 'weight_decay': 0, 'amsgrad': False, 'maximize': False, 'foreach': None, 'capturable': False, 'differentiable': False, 'fused': None}
+[20231206-030825] [INFO] scheduler
+[20231206-030825] [INFO]   optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    initial_lr: 0.0001
+    lr: 1.2660365397059856e-05
+    maximize: False
+    weight_decay: 0
+)
+[20231206-030825] [INFO]   param_group_field: lr
+[20231206-030825] [INFO]   base_values: [0.0001]
+[20231206-030825] [INFO]   metric: None
+[20231206-030825] [INFO]   t_in_epochs: True
+[20231206-030825] [INFO]   noise_range_t: None
+[20231206-030825] [INFO]   noise_pct: 0.67
+[20231206-030825] [INFO]   noise_type: normal
+[20231206-030825] [INFO]   noise_std: 1.0
+[20231206-030825] [INFO]   noise_seed: 42
+[20231206-030825] [INFO]   t_initial: 100
+[20231206-030825] [INFO]   lr_min: 1e-05
+[20231206-030825] [INFO]   cycle_mul: 1.0
+[20231206-030825] [INFO]   cycle_decay: 1.0
+[20231206-030825] [INFO]   cycle_limit: 1
+[20231206-030825] [INFO]   warmup_t: 10
+[20231206-030825] [INFO]   warmup_lr_init: 1e-05
+[20231206-030825] [INFO]   warmup_prefix: True
+[20231206-030825] [INFO]   k_decay: 1.0
+[20231206-030825] [INFO]   warmup_steps: [9e-06]
